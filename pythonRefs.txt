@@ -1,0 +1,19 @@
+python from google 
+https://developers.google.com/edu/python/strings
+
+
+
+
+this is for cources list
+https://www.youtube.com/watch?v=MGnXMu9GFig
+
+this to read
+
+1. normalization btw tables
+2. table scan without indexing
+3. oracl query plan, execution plan
+4. which is more expensive?
+5. hdfs system
+6. ML, data mining, 
+
+
